@@ -1,5 +1,6 @@
-﻿descri��o
-conte�do
+descricao
+conteudo
 linha 3
 linha 4
-somatorrio
+linhnha5
+somatorio
