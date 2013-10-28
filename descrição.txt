@@ -1,5 +1,5 @@
-descri��o
+﻿descri��o
 conte�do
 linha 3
 linha 4
-somatorio
+somatorrio
